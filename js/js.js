@@ -112,7 +112,7 @@ enviar.addEventListener('click', function(event){
         saida.innerText = decodcesar();
 
     } else{
-        saida.innerText = "Nunca desista dos seus sonhos!"
+        saida.innerText = "Tente novamente, preenchendo todos os campos."
     }
 });
 
