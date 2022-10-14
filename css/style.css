@@ -1,0 +1,32 @@
+body{
+    background-color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+textarea {
+    background-color: aliceblue;
+    border-radius: 5%;
+}
+
+input {
+    margin-top: 1%;
+    cursor: pointer;
+}
+
+output{
+    width: 7%;
+    padding: 5%;
+    background-color: bisque;
+    border-radius: 5%;
+  
+}
+
+.input{
+    display: flex;
+    justify-content: center;
+}
+
+select {
+    margin-top: 1%;
+}
